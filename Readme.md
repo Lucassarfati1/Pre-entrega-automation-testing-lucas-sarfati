@@ -32,8 +32,8 @@ El objetivo es validar funcionalidades principales del sitio mediante pruebas au
 Clonar el repositorio y entrar en la carpeta del proyecto.
 
 ```bash
-git clone URL_DEL_REPOSITORIO
-cd NOMBRE_DEL_PROYECTO
+git clone https://github.com/Lucassarfati1/Pre-entrega-automation-testing-lucas-sarfati.git
+cd Pre-entrega-automation-testing-lucas-sarfati
 ```
 
 Crear y activar un entorno virtual.
