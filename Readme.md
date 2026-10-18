@@ -34,6 +34,7 @@ Clonar el repositorio y entrar en la carpeta del proyecto.
 ```bash
 git clone https://github.com/Lucassarfati1/Pre-entrega-automation-testing-lucas-sarfati.git
 cd Pre-entrega-automation-testing-lucas-sarfati
+python -m pytest Tests/ -v -s --html=report.html --self-contained-html
 ```
 
 Crear y activar un entorno virtual.
